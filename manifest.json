@@ -1,0 +1,10 @@
+{
+	"id": "new-note-plus",
+	"name": "New Note Plus",
+	"version": "0.0.1",
+	"minAppVersion": "0.9.12",
+	"description": "A new URL Scheme to create new note using clipboard contents",
+	"author": "Lucas Lee",
+	"authorUrl": "https://github.com/ilucaslee/",
+	"isDesktopOnly": false
+}
